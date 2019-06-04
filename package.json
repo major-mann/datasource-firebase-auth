@@ -1,0 +1,12 @@
+{
+  "name": "@major-mann/datasource-firebase-auth",
+  "version": "0.0.1",
+  "description": "A datasource for firebase auth system",
+  "main": "src/index.js",
+  "keywords": [
+    "firebase",
+    "authentication"
+  ],
+  "author": "Calvin Mann<calvinmann+npm@gmail.com>",
+  "license": "MIT"
+}
